@@ -13,7 +13,7 @@ There are a few terms throughout this analysis that require some introduction, s
 
 ![cupping_terms](images/cupping_terms.png)
 
-Another graphic I found useful in drawing conclusions was a breakdown of what Cupping Points meant and identified: 
+Another graphic I found useful in drawing conclusions was a breakdown of what Cupping Points meant and identified:  
 ![cupping_class](images/coffee_class.png)
 
 ---
